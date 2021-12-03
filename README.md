@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=phaedonv&label=PROFILE+VIEWS)
+
 # README is now under construction
 
 <hr>
@@ -9,6 +11,9 @@
 <hr>
 <br>
 <p><img src="https://github-profile-trophy.vercel.app/?username=phaedonv&row=2&column=3&theme=juicyfresh&no-bg=false" /></p>
+
+
+
 <!--
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=phaedonv&theme=juicyfresh&no-bg=true" />
