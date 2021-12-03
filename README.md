@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#README is now under construction
+
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaedonv&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="languages" />
+</div>
+
+<div>
+    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phaedonv&show_icons=true&locale=en&theme=chartreuse-dark" alt="stats" width="410" />
+</div>
+
 
 
 <!--
