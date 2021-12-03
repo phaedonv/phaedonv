@@ -10,8 +10,10 @@
     &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phaedonv&show_icons=true&locale=en&theme=chartreuse-dark" alt="stats" width="410" />
 </div>
 
-<div align="center"></div><br>
-<img src="https://github-profile-trophy.vercel.app/?username=phaedonv&theme=juicyfresh&no-bg=true" />
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=phaedonv&theme=juicyfresh&no-bg=true" />
+</div><br>
+
 
 
 
