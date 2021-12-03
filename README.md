@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#README is now under construction
+# README is now under construction
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaedonv&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="languages" />
