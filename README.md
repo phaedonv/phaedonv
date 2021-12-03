@@ -10,16 +10,17 @@
     &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phaedonv&show_icons=true&locale=en&theme=chartreuse-dark" alt="stats" width="410" />
 </div>
 
-<hr>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=phaedonv&theme=juicyfresh&no-bg=true" />
-</div><br>
+
 
 
 
 
 <!--
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=phaedonv&theme=juicyfresh&no-bg=true" />
+</div><br>
+
 **phaedonv/phaedonv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
