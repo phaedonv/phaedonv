@@ -10,7 +10,7 @@
 <br><br><br><br><br>
 <hr>
 <br>
-<p><img src="https://github-profile-trophy.vercel.app/?username=phaedonv&row=2&column=3&theme=juicyfresh&no-bg=false" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=phaedonv&row=2&column=3&theme=radical&no-bg=false" /></p>
 
 
 
