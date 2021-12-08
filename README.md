@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=phaedonv&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=phaedonv&color=ff69b4&label=COFFEES+CONSUMED)
 
 # README is now under construction
 
