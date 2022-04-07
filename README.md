@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=phaedonv&color=ff69b4&label=COFFEES+CONSUMED)
 
-# You can also check my personal portfolio [here](https://phaedonv.github.io/profile/)!
+# You can also check my personal portfolio [here](https://phaedonv.netlify.app)!
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaedonv&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="langs" /></p>
