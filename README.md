@@ -4,12 +4,10 @@
 
 # You can also check my personal portfolio [here](https://phaedonv.netlify.app)!
 
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaedonv&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="langs" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phaedonv&show_icons=true&locale=en&theme=synthwave" alt="stats" width="410" /></p>
-<br><br><br><br><br>
-<hr>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaedonv&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="langs" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=phaedonv&show_icons=true&locale=en&theme=blueberry" alt="stats" width="410" /></p>
+
 <!--
 <p><img src="https://github-profile-trophy.vercel.app/?username=phaedonv&row=2&column=3&theme=radical&no-bg=false" /></p>
 -->
