@@ -1,7 +1,7 @@
 # <img src="https://res.cloudinary.com/thisisnotanimage/image/upload/v1668512545/Phaedonv_industries_portal/cat-robot_afdchk.gif" width="101">Greetings,
 
 
-### I code. I make. I break. I fix. 
+### I code. I make. I break. I fix?
 
 <samp>
     I use code and music to create websites, apps, and other things that have fun. I'm on a quest to learn as many languages and skills as I can, so send me your favorite book recommendations or tutorials!
@@ -149,7 +149,7 @@
 
 <table width="2000">
     <tr>
-        <td width="1000"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21"></br></td>
+        <td width="1000"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&line_height=21"></br></td>
         <td width="1000"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9"></br></td>
         </tr>
 </table>
