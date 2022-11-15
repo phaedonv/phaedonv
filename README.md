@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=phaedonv&color=ff69b4&label=COFFEES+CONSUMED)
+![](https://komarev.com/ghpvc/?username=phaedonv&color=52B256&label=COFFEES+CONSUMED)
 
-# You can also check my personal portfolio [here](https://phaedonv.netlify.app)!
+# **personal portfolio** :point_right: [here](https://phaedonv.netlify.app)!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaedonv&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="langs" /></p>
 
