@@ -3,14 +3,16 @@
 
 ### I code. I make. I break. I fix. 
 
-<samp>
+<p>
     I use **code** and **music** to create websites, apps, and other things that have fun. I'm on a quest to learn as many languages and skills as I can, so [**send**](https://phaedonv.netlify.app) me your favorite book recommendations or tutorials!
-</samp>
+</p>
 
 <br>
 
 ## Technologies & Tools
-#
+
+<samp>
+</samp>
 
 <details>
     <summary>more</summary> 
