@@ -149,8 +149,8 @@
 
 <table width="2000">
     <tr>
-        <td width="1000" align="center"><img height="230px" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21"></br></td>
-        <td width="1000" align="center"><img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9"></br></td>
+        <td width="1000" align="center"><img height="192px" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&line_height=21"></br></td>
+        <td width="1000" align="center"><img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9"></br></td>
         </tr>
 </table>
 
