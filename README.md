@@ -11,11 +11,16 @@
 
 ## Social links
 
-[![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://phaedonv.netlify.app)
+[![Website](https://img.shields.io/badge/portfolio-2CB0BB?style=for-the-badge&logo=netlify&logoColor=white)](https://phaedonv.netlify.app)
+<!-- 
+<details>
+<summary>...</summary>
+
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
+</details>
+-->
 <br>
 
 ## Techno Logic
@@ -25,7 +30,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,microsoft,azure,react,vue,flutter&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,git,github,js,react,redux,sass,css,emotion,html,rails,ruby,py,bash,powershell,heroku,netlify,firebase,postgres,sqlite,webpack,vscode,visualstudio,unity,ps,ai,xd,figma,bootstrap&perline=15)](https://skillicons.dev)
 
 <!--
 <details>
