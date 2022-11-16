@@ -23,21 +23,26 @@
 <!--<h2 align="left" id="macropower-tech">Techno Logic</h2>-->
 > Tools, languages, and other things that I like to work with.
 
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,microsoft,azure,react,vue,flutter&perline=9)](https://skillicons.dev)
+
+<!--
 <details>
     <summary>under construction</summary> 
     <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/phaedonv/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/html/html.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/phaedonv/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>Python
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -140,6 +145,7 @@
   </tr>
 </table>
 </details>
+-->
 
 <br>
 
@@ -147,17 +153,11 @@
 
 ![](https://komarev.com/ghpvc/?username=phaedonv&color=52B256&label=COFFEES+CONSUMED)
 
-<table width="2000">
-    <tr>
-        <td width="1000" align="center"><img height="192px" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&line_height=21"></br></td>
-        <td width="1000" align="center"><img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9"></br></td>
-        </tr>
-</table>
+<img height="" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&line_height=24">
+<img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9">
 
-<div>
-  
-  
-</div>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=phaedonv&bg_color=242938&color=2ee8a7&line=4d6290&point=2ee8a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <table width="2000">
 <tr>
@@ -170,6 +170,14 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=portfolio&fill=52B256)](social-links)
 -->
 
+<!--
+<table width="2000">
+    <tr>
+        <td width="1000" align="center"><img height="192px" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&line_height=21"></br></td>
+        <td width="1000" align="center"><img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9"></br></td>
+        </tr>
+</table>
+-->
 
 <!--
 <div align="center">
