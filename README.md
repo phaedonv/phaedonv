@@ -158,7 +158,7 @@
 
 ![](https://komarev.com/ghpvc/?username=phaedonv&color=52B256&label=COFFEES+CONSUMED)
 
-<img align="left" height="" src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&line_height=24"><img align="right" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9">
+<img src="https://github-readme-stats.vercel.app/api?username=phaedonv&theme=blueberry&show_icons=true&hide_title=false&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&line_height=24"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedonv&theme=blueberry&&hide_title=false&hide_border=true&layout=compact&langs_count=9">
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=phaedonv&bg_color=242938&color=2ee8a7&line=4d6290&point=2ee8a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
