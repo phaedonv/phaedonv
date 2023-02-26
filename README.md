@@ -30,7 +30,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,git,github,js,react,redux,sass,css,emotion,html,rails,ruby,py,bash,powershell,heroku,netlify,firebase,postgres,sqlite,webpack,vscode,visualstudio,unity,ps,ai,xd,figma,bootstrap&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,git,github,js,react,redux,sass,css,emotion,styledcomponents,html,rails,ruby,py,bash,powershell,heroku,netlify,firebase,postgres,sqlite,webpack,vscode,visualstudio,unity,ps,ai,xd,figma,bootstrap&perline=15)](https://skillicons.dev)
 
 <!--
 <details>
