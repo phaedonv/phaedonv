@@ -12,6 +12,7 @@
 ## Social links
 
 [![Website](https://img.shields.io/badge/portfolio-2CB0BB?style=for-the-badge&logo=netlify&logoColor=white)](https://phaedon.netlify.app)
+[![Website](https://img.shields.io/badge/web3%20portfolio-2CB0BB?style=for-the-badge&logo=netlify&logoColor=yellow)]([https://phaedon.netlify.app](https://phaedonv.blockchain/))
 <!-- 
 <details>
 <summary>...</summary>
